@@ -1,0 +1,40 @@
+.container { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    display: block;
+    margin: auto;
+    padding-top: 15%;
+}
+
+.search {
+    display: block;
+    margin: auto;
+    padding: 10px;
+}
+
+.footerleft {
+    display: inline;
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+}
+
+.footerright {
+    display: inline; 
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+}
+
+.buttons {
+    display: flex;
+    margin: auto;
+    align-content: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+
